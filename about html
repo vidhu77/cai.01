@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fingrow - Fintech for Students</title>
+    <link rel="stylesheet" href="styleabout.css">
+</head>
+
+<body>
+    <header>
+        <h1><u>About Us</u></h1>
+    </header>
+
+    <div class="container">
+        <div class="left">
+            <img src="image1.jpg" alt="Fingrow Image">
+        </div>
+        <div class="right">
+            <p>FinGrow offers a range of smart financial tools designed to help users manage and grow their money
+                effectively.
+                It features an easy-to-use expense sharing and tracking system, similar to Splitwise, that allows users
+                to split bills
+                and manage shared expenses effortlessly. For those new to investing, FinGrow provides stock market
+                advice and training,
+                offering beginner-friendly tips and insights to help build financial literacy and wealth. The app also
+                includes a jar-like
+                automated savings system where users can set savings goals and achieve them through micro-saving
+                features. With its smart budgeting
+                and alert system, FinGrow helps users track their spending habits, categorize expenses, and avoid
+                overspending. Additionally, it offers personalized
+                financial insights powered by AI to improve financial health and guide users toward achieving their
+                money goals.
+                🚀</p>
+        </div>
+    </div>
+    <footer>All Copyrights Reserved | @ FinGrow</footer>
+</body>
+
+</html>
